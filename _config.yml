@@ -22,7 +22,7 @@ repository               : "kevlariii/kevlariii.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal_photo.png"
+  avatar           : "personal_photo.jpg"
   name             : "Mohammed SBAIHI"
   pronouns         : # example: "she/her"  
   bio              : "Safe and ethical AI Engineering"
