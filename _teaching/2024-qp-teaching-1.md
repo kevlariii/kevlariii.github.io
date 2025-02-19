@@ -8,8 +8,10 @@ date: 2024-01-01
 location: "Gif-suf-yvette, France"
 ---
 
-As a Teaching Assistant for this mandatory first-year engineering course at CentraleSupélec, I:  
-- 📝 Designed **exercises and quizzes** to reinforce key concepts.  
-- 🎯 Led **weekly 1h30 sessions**, guiding students through problem-solving and discussions.  
-- 📚 Provided **exam preparation support**, helping students grasp complex topics and improve their understanding.  
+*From March 2024 to June 2024*
+Being a TA for this **first-year engineering course** wasn’t just about physics—it was about making abstract concepts click. My role included:  
+
+- 🔍 Crafting **exercises and quizzes** that pushed students beyond textbook formulas.  
+- 🎙️ Running **weekly 1h30 sessions**, where I broke down tough topics, answered tricky questions, and sometimes even made quantum physics *fun* (or at least less intimidating!).  
+- 🚀 Helping students **prepare for exams**, making sure they didn’t just memorize equations but actually understood the “why” behind them.  
 
