@@ -7,7 +7,7 @@ venue: "CentraleSupélec & McGill"
 date: 2023-01-01
 location: "Gif-suf-yvette, France"
 ---
-*From October 2023 to November 2023*
+*From October 2023 to November 2023*<br>
 I was selected to tutor **first-year Bachelor students** in **Classical Mechanics**, a core course in the **CentraleSupélec x McGill** joint program. My role involved:  
 
 - 🗣️ Leading **weekly Kholle-style sessions**, a fast-paced oral exam format used in French preparatory classes.  

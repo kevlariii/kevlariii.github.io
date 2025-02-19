@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Gif-suf-yvette, France"
 ---
 
-*From March 2024 to June 2024*
+*From March 2024 to June 2024* <br>
 Being a TA for this **first-year engineering course** wasn’t just about physics—it was about making abstract concepts click. My role included:  
 
 - 🔍 Crafting **exercises and quizzes** that pushed students beyond textbook formulas.  
