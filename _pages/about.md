@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- # 👋 Hey there! I'm Mohammed. -->
-
+![lemonai](/images/lemonai.png.png){: .align-right, width="300px"}
 👨‍💻 I'm a gap year student at *CentraleSupélec, Paris-Saclay University*, specializing in **AI engineering**.  
 
 ## 🔬 Research Interests  
@@ -26,7 +26,7 @@ I'm a co-founding member of [**lemon42-ai**](https://github.com/lemon42-ai), whe
 - Sharing analytics & insights on emerging models and techniques to help AI practitioners make informed choices. *(Check my [Portfolio](#) & [Blog](#) sections!)*  
 
 ## 📝 Research Contributions  
-📄 **[Pre-print, submission]** – Co-authored [**DiffGuard**](https://arxiv.org/abs/2412.00064), a smaller, stronger, and faster safety filter for diffusion models. 
+📄 **[Pre-print, submission]** – Co-authored [**DiffGuard**](https://arxiv.org/abs/2412.00064), a smaller, stronger, and faster safety filter for diffusion models. <br>
 🔍 **Key Features:**  
 - Most powerful open-source text-based safety filter (as of submission).  
 - Trained on a newly curated dataset to block sensitive topics (nudity, gore, violence, etc.).  
