@@ -19,7 +19,7 @@ I'm passionate about language models for safety and inclusion. My work revolves 
 - 💎 **Past Internship:** Data Scientist at [**Richemont**](https://www.richemont.com/), where I developed GenAI-based systems for analytics automation.  
 
 ## 🚀 Community & Open Source  
-I'm a co-founding member of [**lemon42-ai**](https://github.com/lemon42-ai), where we build projects at the intersection of AI safety, impact & inclusion.  
+I'm a co-founding member of [**lemon42-ai**](https://github.com/lemon42-ai) community, where we build projects at the intersection of AI safety, impact & inclusion.
 
 ### 🔗 Open Source Contributions  
 - Contributing to the 🤗 [**Hugging Face Hub**](https://huggingface.co/lemon42-ai) with fine-tuned models & curated datasets.  
