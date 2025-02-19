@@ -1,5 +1,5 @@
 ---
-title: "Quantum Physics Teaching Assistant"
+title: "Teaching Assistant - Quantum & Statistical Physics "
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-qp-teaching-1
@@ -8,5 +8,8 @@ date: 2024-01-01
 location: "Gif-suf-yvette, France"
 ---
 
-Served as a Teaching Assistant for Quantum and Statistical Physics. A mandatory course for first-year engineering students at CentraleSupélec. My role included preparing excercices and quizzes, animating 1h30/week sessions and supporting the students for exam preparation.
+As a Teaching Assistant for this mandatory first-year engineering course at CentraleSupélec, I:  
+- 📝 Designed **exercises and quizzes** to reinforce key concepts.  
+- 🎯 Led **weekly 1h30 sessions**, guiding students through problem-solving and discussions.  
+- 📚 Provided **exam preparation support**, helping students grasp complex topics and improve their understanding.  
 
