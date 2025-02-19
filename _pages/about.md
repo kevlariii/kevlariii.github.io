@@ -12,7 +12,7 @@ redirect_from:
 👨‍💻 I'm a gap year student at *CentraleSupélec, Paris-Saclay University*, specializing in **AI engineering**.  
 
 ## 🔬 Research Interests  
-I'm passionate about language models for safety and inclusion. My work revolves around making AI systems more responsible, fair, and robust.  
+I'm passionate about language models for safety and inclusion. My work revolves around making GenAI systems more responsible, fair, and robust. This includes fine-tuning models on use cases such as Safe Image & Video Generation, Code Vulnerability Detection etc. But also collecting and publishing curated datasets for low-resource and under-represented languages.
 
 ## 💼 Experience  
 - 🎯 **Current Internship:** Cloud Services Intern at [**fifty-five**](https://www.fifty-five.com/), a Paris-based data consulting company. Currently working on Cloud Optimization to reduce cost and CO2 emissions of Cloud projects. 
