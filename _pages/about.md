@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<!-- # 👋 Hey there! I'm Mohammed. -->
-![lemonai](/images/lemonai.png.png){: .align-right, width="300px"}
+
+![lemonai](/images/lemonai.png.png){: .align-right width="300px"}
 👨‍💻 I'm a gap year student at *CentraleSupélec, Paris-Saclay University*, specializing in **AI engineering**.  
 
 ## 🔬 Research Interests  
